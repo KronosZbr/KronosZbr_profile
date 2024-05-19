@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is joão ... and I'm a IT project assistant, from Brazil</h2>
+<p align="left">Hi 👋! My name is joão ... and I'm a IT project assistant, from Brazil</p>
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 19 years old, currently living in Brazil. I have experience in project management and I am studying software engineering at college.
+
+  - ⚡ I like to read, whether it's a good book, manga, I write poems, I play the ukulele as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. ;-;
+</details>
 
 ###
 
