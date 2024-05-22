@@ -36,7 +36,8 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <p align="left">
-<a href="https://br.linkedin.com/in/joão-vitor-dysarz-189708309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devjao" height="30" width="40" /></a>
+<a href="https://br.linkedin.com/in/joão-vitor-dysarz-189708309" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devjao" height="30" width="40" /></a>
+<a href="https://instagram.com/@joaovitordysarz2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@joaovitordysarz2" height="30" width="40" /></a>
 </p>
 </div>
 
